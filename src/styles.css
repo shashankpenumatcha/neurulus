@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+.nav span{
+  display:inline-block;
+  margin-right:25px;
+}
+
+.center{
+  text-align:center;
+}
+
+.banner{
+  display: block;
+    height: 400px;
+    background: url(./assets/images/1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.italic{
+  font-style: italic;
+}
+
+.title{
+  font-size: 16px;
+  font-weight: bold;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+
+}
